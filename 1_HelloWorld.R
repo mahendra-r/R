@@ -1,0 +1,3 @@
+help()
+
+print('Hello world')
